@@ -52,6 +52,7 @@ class AboutMe extends Me {
       { name: "Go" },
       { name: "Angular" },
       { name: "Nuxt" },
+      { name: ".NET / C#" },
       { name: "Develop and refine existing skills" },
     ];
   }
