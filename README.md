@@ -39,7 +39,11 @@ class AboutMe extends Me {
       { name: "PHP", level: 3 },
       { name: "Symfony", level: 3 },
       { name: "MySQL", level: 3 },
+      { name: "OpenAPI", level: 3 },
       { name: "Docker", level: 2 },
+      { name: "Python", level: 2 },
+      { name: "Django", level: 1 },
+      { name: "FastAPI", level: 1 },
     ];
   }
 
