@@ -29,6 +29,7 @@ class AboutMe extends Me {
       { name: "TypeScript", level: 3 },
       { name: "React", level: 3 },
       { name: "Next 13", level: 3 },
+      { name: "Vue 3", level: 2 },
       { name: "CSS", level: 4 },
       { name: "TailwindCSS", level: 3 },
       { name: "Bootstrap", level: 4 },
