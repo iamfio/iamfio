@@ -48,6 +48,7 @@ class AboutMe extends Me {
   public getFutureGoals(): Goal[] {
     return [
       { name: "Develop and refine existing skills" },
+      { name: "TDD" },
       { name: "Go" },
       { name: "Angular" },
       { name: ".NET / C#" },
