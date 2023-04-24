@@ -21,8 +21,6 @@ class Me {
 }
 
 class AboutMe extends Me {
-  private goals: Goal[];
-
   public getCurrentSkills(): Skill[] {
     return [
       { name: "JavaScript", level: 4 },
