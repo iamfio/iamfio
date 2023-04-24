@@ -9,7 +9,7 @@ interface Skill extends Goal {
 
 class Me {
   public name = "Fiodor Go";
-  public handle = "IamFio";
+  public handle = "CasusArts";
   private hobbies = [
     "Create Music",
     "Travel",
