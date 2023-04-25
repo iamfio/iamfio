@@ -20,7 +20,7 @@ class Me {
   ];
 }
 
-class AboutMe extends Me {
+class About extends Me {
   public getCurrentSkills(): Skill[] {
     return [
       { name: "JavaScript", level: 4 },
